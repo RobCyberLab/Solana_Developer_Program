@@ -1,1 +1,1 @@
-# Romanian-Solana-Developer-Program-C3
+# Solana-Developer-Program
